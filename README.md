@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on CryptoStartup
 - 📫 How to reach me on Twitter @evgenylebedevv
+- evgenylebedevv@gmail.com 
+- http://evgenylebedev.ru
 
 <!---
 evgenylebedevv/evgenylebedevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
